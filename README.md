@@ -2,6 +2,8 @@
 
 Play AR7778 even if you have no talent using the calculator :)
 
+![Showcase in Audacity](Img_docs/cover.png)
+
 Instructions in Process.txt
 
 ## Discovery
