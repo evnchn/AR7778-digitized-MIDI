@@ -1,0 +1,15 @@
+1. 
+
+Go to "Waveform" folder and generate waveform, optimally at 256Hz as 65536/256/256 is an integer. 
+
+2. 
+
+Using Polyphone Soundfont Editor, create soundfont. 
+
+3. 
+
+Using command:
+ 
+fluidsynth -ni 256.sf2 [MIDI file].mid -F [Audio file].wav -r 44100
+
+generate the desired MIDI
